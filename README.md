@@ -22,5 +22,4 @@ I’m currently transitioning to the tech world from the financial world.
 
 #### Profile Visits 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=umme-p.visitor-badge)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=umme-p&label=Visitors&countColor=%230b78a3)
