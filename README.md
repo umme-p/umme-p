@@ -8,7 +8,7 @@ I’m currently transitioning to the tech world from the financial world.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Umme-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umme/) [![Mail Badge](https://img.shields.io/badge/-@a.little.bong-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/a.little.bong/) [![Mail Badge](https://img.shields.io/badge/-peulytasnim001-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:peulytasnim001@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Umme-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umme/) [![Mail Badge](https://img.shields.io/badge/-@TheBasicBB-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/TheBasicBB/) [![Mail Badge](https://img.shields.io/badge/-peulytasnim001-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:peulytasnim001@gmail.com)
 
 
 
